@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hx9nNiCM3AeAYwVFtGRrfxb5z50+ELsBuR8t5E3hc6hsQgZeCRVyBXOrnhrKT2mhWzlXB5gRdRT3WJIw/F1XIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nwesp\\source\\repos\\LambdaDynamoRetrievalExample\\LambdaDynamoRetrievalExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nwesp\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\amazon.lambda.serialization.json\\1.8.0\\amazon.lambda.serialization.json.1.8.0.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\awssdk.core\\3.5.3.1\\awssdk.core.3.5.3.1.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.4.30\\awssdk.dynamodbv2.3.5.4.30.nupkg.sha512",
+    "C:\\Users\\nwesp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
